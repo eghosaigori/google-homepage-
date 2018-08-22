@@ -1,0 +1,42 @@
+<!DOCKTYPE html>
+<html>
+
+<html>
+
+<head>
+	<title>My First Test Page</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="/google-homepage/styles/styles.css">
+</head>
+
+<body class="container">
+
+	<div class="header">
+		<a class="header-tabs button" id='about' href="">About</a>
+		<a class="header-tabs button" id='store' href="">Store</a>
+		<a class="header-tabs button" id='gmail' href="">Gmail</a>
+		<a class="header-tabs button" id='images' href="">Images</a>
+	
+
+	</div>
+
+	<div class="search">
+		<img id='google' src="images/googlelogo_color_272x92dp.png">
+		<textarea></textarea>
+		<div class="search-buttons">
+			<a id="search-button" class="button" href="">Search</a>
+			<a id="im-feeling-lucky" class="button" href="">I'm feeling lucky</a>
+		</div>
+	</div>
+
+	<div class="footer">
+		<a id="advertising" class="button" href="">Advertising</a>
+		<a id="business" class="button" href="">Business</a>
+		<a id="privacy" class="button" href="">Privacy</a>
+		<a id="terms" class="button" href="">Terms</a>
+		<a id="settings" class="button" href="">Settings</a>
+	</div>
+
+</body>
+
+</html>
